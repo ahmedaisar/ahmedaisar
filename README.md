@@ -1,4 +1,4 @@
-# Svelte - Full Stack Web Developer | Node.js | Vue.js | Javascript | NextJS | TypeScript | React | Python 
+# Full Stack Web Developer | Node.js | Vue.js | Svelte | NextJS | React | Python 
 [![wakatime](https://wakatime.com/badge/user/598eb826-8446-4047-97a9-21838b8ca577/project/aef55b4b-b637-45cf-b936-2bc702ba209a.svg/?style=for-the-badge)](https://wakatime.com/badge/user/598eb826-8446-4047-97a9-21838b8ca577/project/aef55b4b-b637-45cf-b936-2bc702ba209a)
 
 <h3>Hi! 👋🤓<br><br>I'm Aisar! </h3>
@@ -12,7 +12,7 @@ Projects & Portfolios
 - https://www.atmosphere-kanifushi.com [WP]
 - https://www.varu-atmosphere.com [WP]
 - https://www.coloursofoblu.com/ [WP
-- http://bakedbuns.farm/ [Web3 - NextJs]
+- https://bakedbuns.farm/ [Web3 - NextJs]
 - http://maldivesbeachvacation.com/ [WP,working]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
